@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, 
+### 🌱 I’m currently learning open source.
+### 👯 I’m looking to work on open source project.
 
 <!--
 **aman-2k18/aman-2k18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
